@@ -1,0 +1,6 @@
+# Ignorar arquivos sensíveis ou de configuração local
+*.log
+*.tmp
+*.bak
+.DS_Store
+.env
